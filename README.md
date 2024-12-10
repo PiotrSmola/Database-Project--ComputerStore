@@ -4,6 +4,8 @@
 
 ### Full application of a store selling computers and computer components, with a Frontend written in JavaScript, a Backend in PHP, and a PL/SQL database
 
+## This repository is a fork of the [original project]((https://github.com/dawidolko/Database-Project-ComputerStore)) developed in collaboration with [Dawid Olko](https://github.com/dawidolko)
+
 ![info](frontend/assets/images/plsql.png)
 
 # TechByte
